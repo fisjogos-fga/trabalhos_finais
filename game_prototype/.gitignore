@@ -1,0 +1,4 @@
+*.pyc
+
+pyxel_rumble/__pycache__/
+pyxel_rumble/pr_modules/__pycache__/
